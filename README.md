@@ -1,3 +1,3 @@
 # API-Testing---Student-Details
 
-![](Image/HTMLextr%20Report.png)
+! [](Images/HTMLextr%20Report.png)
