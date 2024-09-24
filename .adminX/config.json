@@ -1,0 +1,13 @@
+{
+  "media": {
+    "root": "newman",
+    "public": "newman"
+  },
+  "content": {
+    "root": "newman"
+  },
+  "themeConfig": [
+    "README.md"
+  ],
+  "arrangement": {}
+}
