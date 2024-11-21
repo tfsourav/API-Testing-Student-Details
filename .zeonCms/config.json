@@ -1,0 +1,13 @@
+{
+  "media": {
+    "root": "newman",
+    "public": "newman"
+  },
+  "content": {
+    "root": "newman"
+  },
+  "themeConfig": [
+    "Student_C.postman_collection.json"
+  ],
+  "arrangement": []
+}
